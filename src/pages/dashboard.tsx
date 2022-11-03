@@ -11,5 +11,5 @@ export default function Dashboard() {
 
   return (
     <h1>Dashboard: {user?.email}</h1>
-  );
+  ); 
 }
